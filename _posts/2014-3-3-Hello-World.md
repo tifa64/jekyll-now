@@ -8,6 +8,10 @@ title: Experience
 * Enabled the team collecting pre-release metrics for new features.
 * Proved the sustainability of the service by testing it in CasperJS.
 * Technologies used: Java, JSON, CasperJS.
+---
+layout: post
+title: research
+---
 
 ## Alexandria University | Undergrad Research Assistant
 #### November 2017 – Present | Alexandria, EG

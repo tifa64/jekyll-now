@@ -7,4 +7,13 @@ title: Experience
 * Designed and implemented a dynamic customer service.
 * Enabled the team collecting pre-release metrics for new features.
 * Proved the sustainability of the service by testing it in CasperJS.
-* Technologies used: Java, JSON, CasperJS
+* Technologies used: Java, JSON, CasperJS.
+
+
+title: Research
+## Alexandria University | Undergrad Research Assistant
+#### November 2017 – Present | Alexandria, EG
+* Researching & writing about Efficient Machine Learning-based Big Data
+Analytics for Optimized Control of Cyber Physical Systems in IoT
+Environments.
+

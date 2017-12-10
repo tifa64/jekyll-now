@@ -2,7 +2,8 @@
 layout: post
 title: Experience
 ---
-## Amazon Web Services
+## Amazon Web Services | Software Engineering Development Intern
+#### August 2017 – October 2017 (3 months) | Cape Town, SA
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 

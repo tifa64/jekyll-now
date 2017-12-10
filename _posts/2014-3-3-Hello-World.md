@@ -9,7 +9,7 @@ title: Experience
 * Proved the sustainability of the service by testing it in CasperJS.
 * Technologies used: Java, JSON, CasperJS.
 
-#Research
+# Research
 
 ## Alexandria University | Undergrad Research Assistant
 #### November 2017 – Present | Alexandria, EG

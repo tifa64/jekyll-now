@@ -16,7 +16,6 @@ title: Experience
 * Researching & writing about Efficient Machine Learning-based Big Data
 Analytics for Optimized Control of Cyber Physical Systems in IoT
 Environments.
-
 ## Informatics Research Institute | Undergrad Research Assistant
 #### Jan 2017 – Feb 2017 | Alexandria, EG
 * Contributed to a project which improved college’s students focus span.

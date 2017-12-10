@@ -17,3 +17,8 @@ title: Experience
 Analytics for Optimized Control of Cyber Physical Systems in IoT
 Environments.
 
+## Informatics Research Institute | Undergrad Research Assistant
+#### Jan 2017 – Feb 2017 | Alexandria, EG
+* Contributed to a project which improved college’s students focus span.
+* Designed a web crawler and a keyword extraction algorithm to get vital keywords from text using Microsoft Text Analytics API.
+* The Dean decided to apply the project on students of Alexandria University.

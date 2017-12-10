@@ -10,7 +10,6 @@ title: Experience
 * Technologies used: Java, JSON, CasperJS.
 
 ---
-title: Research
 ---
 ## Alexandria University | Undergrad Research Assistant
 #### November 2017 – Present | Alexandria, EG
